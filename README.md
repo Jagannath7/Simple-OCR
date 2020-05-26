@@ -1,3 +1,3 @@
-# NSUT
+# Simple OCR
 
-Every Model is a Specific Part and is running individually
+Simple OCR built using Google 
