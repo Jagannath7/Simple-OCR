@@ -1,3 +1,3 @@
 # Simple OCR
 
-Simple OCR built using Google 
+Simple OCR built using Google Cloud Vision
